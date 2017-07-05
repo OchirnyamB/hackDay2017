@@ -1,0 +1,170 @@
+hr.entertainment,
+hr.entertainment-primary {
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 250px;
+  margin: 50px auto 30px;
+}
+hr.entertainment:after,
+hr.entertainment-primary:after {
+  content: "\f03d";
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+  padding: 0 0.25em;
+  top: -.8em;
+}
+hr.entertainment {
+  border-color: white;
+}
+hr.entertainment:after {
+  background-color: #3366cc;
+  color: white;
+}
+hr.entertainment-primary {
+  border-color: #CC0313;
+}
+hr.entertainment-primary:after {
+  background-color: white;
+  color: #CC0313;
+}
+/*Icon End*/
+hr.care,
+hr.care-primary {
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 250px;
+  margin: 50px auto 30px;
+}
+hr.care:after,
+hr.care-primary:after {
+  content: "\f263";
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+  padding: 0 0.25em;
+  top: -.8em;
+}
+hr.care {
+  border-color: white;
+}
+hr.care:after {
+  background-color: #dc3912;
+  color: white;
+}
+hr.care-primary {
+  border-color: #CC0313;
+}
+hr.care-primary:after {
+  background-color: white;
+  color: #CC0313;
+}
+/*Icon End*/
+hr.plane,
+hr.plane-primary {
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 250px;
+  margin: 50px auto 30px;
+}
+hr.plane:after,
+hr.plane-primary:after {
+  content: "\f072";
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+  padding: 0 0.25em;
+  top: -.8em;
+}
+hr.plane {
+  border-color: white;
+}
+hr.plane:after {
+  background-color: #109618;
+  color: white;
+}
+hr.plane-primary {
+  border-color: #CC0313;
+}
+hr.plane-primary:after {
+  background-color: white;
+  color: #CC0313;
+}
+/*Icon End*/
+hr.medical,
+hr.medical-primary {
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 250px;
+  margin: 50px auto 30px;
+}
+hr.medical:after,
+hr.medical-primary:after {
+  content: "\f0fa";
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+  padding: 0 0.25em;
+  top: -.8em;
+}
+hr.medical {
+  border-color: white;
+}
+hr.medical:after {
+  background-color: #ff9900;
+  color: white;
+}
+hr.medical-primary {
+  border-color: #CC0313;
+}
+hr.medical-primary:after {
+  background-color: white;
+  color: #CC0313;
+}
+/*Icon End*/
+hr.withdrawal,
+hr.withdrawal-primary {
+  padding: 0;
+  border: none;
+  border-top: solid 5px;
+  text-align: center;
+  max-width: 250px;
+  margin: 50px auto 30px;
+}
+hr.withdrawal:after,
+hr.withdrawal-primary:after {
+  content: "\f0d6";
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+  padding: 0 0.25em;
+  top: -.8em;
+}
+hr.withdrawal {
+  border-color: white;
+}
+hr.withdrawal:after {
+  background-color: #990099;
+  color: white;
+}
+hr.withdrawal-primary {
+  border-color: #CC0313;
+}
+hr.withdrawal-primary:after {
+  background-color: white;
+  color: #CC0313;
+}
+/*Icon End*/
